@@ -1,0 +1,7 @@
+= Sequitur in Ruby
+
+== Purpose
+
+This is the Ruby port of the http://www.sequitur.info[Sequitur] algorithm,
+from its JavaScript version.
+
